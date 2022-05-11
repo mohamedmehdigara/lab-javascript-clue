@@ -2,7 +2,8 @@
 
 // Suspects Array
 
-const suspectsArray = [];
+const suspectsArray = ["mrGreen", "drOrchid", "profPlum", "missScarlet"
+, "mrsPeacock", "mrsWhite", "mrMustard"];
 
 // Rooms Array
 
