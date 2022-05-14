@@ -12,7 +12,7 @@ const roomsArray = ["Dining Room",
 
 // Weapons Array
 
-const weaponsArray = [];
+const weaponsArray = ["rope", "knife", "candlestick", "dumbbell", "poison", "axe", "bat", "trophy", "pistol"];
 
 
 // ITERATION 2
