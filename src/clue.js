@@ -7,7 +7,8 @@ const suspectsArray = ["mrGreen", "drOrchid", "profPlum", "missScarlet"
 
 // Rooms Array
 
-const roomsArray = [];
+const roomsArray = ["Dining Room",
+"Conservatory", "Kitchen", "Study", "Library", "Billiard Room", "Lounge", "Ballroom", "Hall", "Spa", "Living Room", "Observatory", "Theater", "Guest House", "Patio"];
 
 // Weapons Array
 
