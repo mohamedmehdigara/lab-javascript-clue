@@ -33,7 +33,10 @@ const weaponsArray = [{name: "rope", weight: 10},
 
 // ITERATION 2
 
-function selectRandom() {}
+function selectRandom(array) {
+ randomElement = array[Math.floor(Math.random() * array.length)]
+  return  randomElement ;
+}
 
 function pickMystery() {}
 
