@@ -38,7 +38,13 @@ function selectRandom(array) {
   return  randomElement ;
 }
 
-function pickMystery() {}
+function pickMystery() {
+  return {
+    suspect: suspectsArray,
+    weapon: weaponsArray,
+    room: roomsArray,
+  }
+}
 
 
 // ITERATION 3
